@@ -62,3 +62,8 @@ C:\Ameer\Angular\Ecommerce\SkinetApi\API\bin\Debug\netcoreapp3.1\Infrastructure.
 C:\Ameer\Angular\Ecommerce\SkinetApi\API\bin\Debug\netcoreapp3.1\Core.pdb
 C:\Ameer\Angular\Ecommerce\SkinetApi\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Ameer\Angular\Ecommerce\SkinetApi\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Ameer\Angular\Ecommerce\SkinetApi\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Ameer\Angular\Ecommerce\SkinetApi\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Ameer\Angular\Ecommerce\SkinetApi\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Ameer\Angular\Ecommerce\SkinetApi\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Ameer\Angular\Ecommerce\SkinetApi\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
