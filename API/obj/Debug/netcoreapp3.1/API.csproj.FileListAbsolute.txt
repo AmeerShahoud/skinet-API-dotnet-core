@@ -60,3 +60,5 @@ C:\Ameer\Angular\Ecommerce\SkinetApi\API\bin\Debug\netcoreapp3.1\Core.dll
 C:\Ameer\Angular\Ecommerce\SkinetApi\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
 C:\Ameer\Angular\Ecommerce\SkinetApi\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
 C:\Ameer\Angular\Ecommerce\SkinetApi\API\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Ameer\Angular\Ecommerce\SkinetApi\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Ameer\Angular\Ecommerce\SkinetApi\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
